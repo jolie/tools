@@ -1,0 +1,14 @@
+{
+	"name": "@jolie/tools",
+	"description": "A convenience package to install all Jolie tools.",
+	"version": "0.1.0",
+	"license": "LGPL 2.1",
+	"keywords": [
+		"microservices",
+		"jolie"
+	],
+	"dependencies": {
+		"@jolie/jpm": "*",
+		"@jolie/jolietraceviewer": "*"
+	}
+}
